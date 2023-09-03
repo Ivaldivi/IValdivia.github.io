@@ -13,9 +13,6 @@ Macalester College: B.A. 2018-2022
 
 ![Izzy's Headshot. Short brown-haired person with green eyes & a fair complexion wearing a black v neck top](izzyHeadshot.jpeg)
 
-<img src="izzyHeadshot.jpeg"
-     alt="Izzy"
-     style="float: left; margin-right: 10px;" />
 #### Special Projects: 
 
 
