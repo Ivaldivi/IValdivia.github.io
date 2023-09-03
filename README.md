@@ -4,7 +4,7 @@
 ### Email: IzzyValdivia.iv@gmail.com
 
 
-#### Education
+#### Education:
 Macalester College: B.A. 2018-2022
 - GPA: 3.69
 - Major: Computer Science
