@@ -11,3 +11,10 @@ Macalester College: B.A. 2018-2022
 - Minors: Data Science & Mathematics
 - Awards/Honors: Graduated Cum Laude, Dean's List 2019, Award for outstanding Public Speaking
 
+#### Special Projects: 
+
+
+#### Work Experience: 
+
+
+#### Overview: 
