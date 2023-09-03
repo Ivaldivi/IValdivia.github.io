@@ -4,7 +4,7 @@
 ### Email: IzzyValdivia.iv@gmail.com
 
 
-#### Education
+#### Education:
 Macalester College: B.A. 2018-2022
 - GPA: 3.69
 - Major: Computer Science
@@ -12,3 +12,11 @@ Macalester College: B.A. 2018-2022
 - Awards/Honors: Graduated Cum Laude, Dean's List 2019, Award for outstanding Public Speaking
 
 ![The San Juan Mountains are beautiful!](/assets/images/headshot.png)
+
+#### Special Projects: 
+
+
+#### Work Experience: 
+
+
+#### Overview: 
